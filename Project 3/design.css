@@ -1,0 +1,77 @@
+.divOne{
+    float:left; /* float div to left */
+    width:200px;
+}
+.divTwo{
+    float:left; 
+    margin-left:260px; /* margin 260px from left side */
+    width:600px; /* width of div 600px */
+}
+h1{
+    margin-top:1px; /* margin from top side */
+    margin: auto;
+}
+ul{
+    list-style:none; /* no style for ul list */
+}
+li{
+    margin-bottom:20px;
+}
+html {
+    background: url('erzurum.jpeg') no-repeat center center fixed #000;
+    background-size: cover
+}
+ 
+body {
+    font-family: Verdana, monospace, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+}
+p{
+    color: white;
+}
+a:link {
+    color: appworkspace;
+    text-decoration:none;
+}
+
+/* ziyaret edilmiş link */
+a:visited {
+    color: appworkspace;
+text-decoration:none;
+}
+
+/* fare işaretçisi link üzerinde */
+a:hover {
+    color: purple;
+}
+/* tam tıklama anı */
+a:active {
+    color: purple;
+}
+a:read-only{
+    color: appworkspace;
+}.close1 {
+
+}
+
+.close2 {
+
+}
+
+.close3 {
+
+}
+
+.close4 {
+
+}
+
+.close5 {
+
+}
+
+.close6 {
+
+}
